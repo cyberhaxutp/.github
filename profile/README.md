@@ -10,4 +10,4 @@ Explore our open-source projects and workshop materials here on GitHub. We hope 
 
 ## Sponsorship
 
-We are actively seeking sponsors for CYBERHAX! Please help support our mission along by reaching out to [hello@cyberhax.club](mailto:hello@cyberhax.club).
+We are actively seeking sponsors for CYBERHAX! Please help support our mission by reaching out to [hello@cyberhax.club](mailto:hello@cyberhax.club).
